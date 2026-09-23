@@ -1,0 +1,1 @@
+"""Corporate A2A coordinator package."""

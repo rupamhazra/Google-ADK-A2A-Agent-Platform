@@ -1,0 +1,7 @@
+google-cloud-aiplatform[agent_engines,adk]>=1.153.0
+google-adk[a2a,agent-identity]>=2.6.0
+a2a-sdk[http-server]>=1.0.0
+sse-starlette>=2.1.0
+cloudpickle>=3.0.0
+requests>=2.32.0
+pydantic>=2.6.4
